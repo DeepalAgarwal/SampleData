@@ -10,7 +10,7 @@
         },
         {
             "id":"2",
-            "firstName":"Rahul",
+            "firstName":"Radhika",
             "lastName":"Sharma",
             "email":"rahul@gmail.com",
             "age":20,
@@ -84,5 +84,6 @@
             "phone": "7002873284",
             "id": 5
           }
-        ]
+        ],
+    "category":"Clothing"
 }
