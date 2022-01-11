@@ -85,5 +85,13 @@
             "id": 5
           }
         ],
-    "category":"Clothing"
+    "Category": [
+         
+          {
+            "name": "Clothing",
+            "country": "Russia",
+            "phone": "7002873284",
+            "id": 5
+          }
+        ]
 }
